@@ -1,2 +1,3 @@
 # git_action-project
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4676ece6-26a6-4127-b4a8-fcccee3db05e" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2996d70d-03a8-4c93-91e6-58e478eaa19a" />
+
